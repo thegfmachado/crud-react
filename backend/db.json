@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Machado",
+      "email": "gabriel.machado@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Nicole Farias",
+      "email": "nicole.farias@hotmail.com"
+    },
+    {
+      "name": "Cecilia Marquione",
+      "email": "cecilia@hotmail.com",
+      "id": 3
+    }
+  ]
+}
